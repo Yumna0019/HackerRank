@@ -12,8 +12,8 @@ Here my solutions for each day of the challenge, implemented in Java.
 | 3   | Easy       | Conditional Statements                    | [Java](30-Days-Of-Code/Day-3.java) |
 | 4   | Easy       | Class vs Instance                         | [Java](30-Days-Of-Code/Day-4.java) |
 | 5   | Easy       | Loops                                     | [Java](30-Days-Of-Code/Day-5.java) |
-| 6   | Easy       | Let's Review                              | [Java](30-Days-Of-Code/) |
-| 7   | Easy       | Arrays                                    | [Java](30-Days-Of-Code/) |
+| 6   | Easy       | Let's Review                              | [Java](30-Days-Of-Code/Day-6.java) |
+| 7   | Easy       | Arrays                                    | [Java](30-Days-Of-Code/Day-7.java) |
 | 8   | Medium      | Dictionaries and Maps                     | [Java]() |
 | 9   | Easy       | Recursion                                 | [Java]() |
 | 10  | Easy       | Binary Number                             | [Java]() |

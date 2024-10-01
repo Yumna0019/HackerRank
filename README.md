@@ -14,7 +14,7 @@ Here my solutions for each day of the challenge, implemented in Java.
 | 5   | Easy       | Loops                                     | [Java](30-Days-Of-Code/Day-5.java) |
 | 6   | Easy       | Let's Review                              | [Java](30-Days-Of-Code/Day-6.java) |
 | 7   | Easy       | Arrays                                    | [Java](30-Days-Of-Code/Day-7.java) |
-| 8   | Medium      | Dictionaries and Maps                     | [Java](30-Days-Of-Code/Day-8.java) |
+| 8   | Easy       | Dictionaries and Maps                     | [Java](30-Days-Of-Code/Day-8.java) |
 | 9   | Easy       | Recursion                                 | [Java](30-Days-Of-Code/Day-9.java) |
 | 10  | Easy       | Binary Number                             | [Java](30-Days-Of-Code/Day-10.java) |
 | 11  | Easy       | 2D Arrays                                 | [Java](30-Days-Of-Code/Day-11.java) |

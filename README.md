@@ -22,14 +22,14 @@ Here my solutions for each day of the challenge, implemented in Java.
 | 13  | Easy       | Abstract Classes                          | [Java](30_Days_Of_Code/Day-13.java) |
 | 14  | Easy       | Scope                                     | [Java](30_Days_Of_Code/Day-14.java) |
 | 15  | Easy       | Linked List                               | [Java](30_Days_Of_Code/Day-15.java) |
-| 16  | Easy       | Exceptions _ String to Integer            | [Java](30_Days_Of_Code/Day-16.java) |
+| 16  | Easy       | Exceptions-String to Integer            | [Java](30_Days_Of_Code/Day-16.java) |
 | 17  | Easy       | More Exceptions                           | [Java](30_Days_Of_Code/Day-17.java) |
 | 18  | Easy       | Queues and Stacks                         | [Java](30_Days_Of_Code/Day-18.java) |
 | 19  | Easy       | Interfaces                                | [Java](30_Days_Of_Code/Day-19.java) |
 | 20  | Easy       | Sorting                                   | [Java](30_Days_Of_Code/Day-20.java) |
 | 21  | Easy       | Generics                                  | [Java](30_Days_Of_Code/Day-21.java) |
 | 22  | Easy       | Binary Search Trees                       | [Java](30_Days_Of_Code/Day-22.java) |
-| 23  | Easy       | BST Level_Order Traversal                 | [Java](30_Days_Of_Code/Day-23.java) |
+| 23  | Easy       | BST Level - Order Traversal                 | [Java](30_Days_Of_Code/Day-23.java) |
 | 24  | Easy       | More Linked Lists                         | [Java](30_Days_Of_Code/Day-24.java) |
 | 25  | Medium     | Running Time and Complexity               | [Java](30_Days_Of_Code/Day-25.java) |
 | 26  | Easy       | Nested Logic                              | [Java](30_Days_Of_Code/Day-26.java) |

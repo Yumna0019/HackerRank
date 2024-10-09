@@ -48,30 +48,30 @@ This repository contains my solutions to the **10 Days of JavaScript** challenge
 | Day | Difficulty | Problem                                    | Solution |
 |-----|------------|--------------------------------------------|----------|
 | 0   | Easy       | Hello, World!                              | [JavaScript](10_Days_Of_JS/Day 0/Hello_World.js) |
-| 0   | Easy       | Data Types                                 | [JavaScript](10_Days_Of_JS/Day 0.js) |
-| 1   | Easy       | Arithmetic Operators                       | [JavaScript](10_Days_Of_JS/Day 1.js) |
-| 1   | Easy       | Functions                                  | [JavaScript](10_Days_Of_JS/Day 1.js) |
-| 1   | Easy       | Let and Const                              | [JavaScript](10_Days_Of_JS/Day 1.js) |
-| 2   | Easy       | Conditional Statements: If Else            | [JavaScript](10_Days_Of_JS/Day 2.js) |
-| 2   | Easy       | Conditional Statements: Switch             | [JavaScript](10_Days_Of_JS/Day 2.js) |
-| 2   | Easy       | Loops                                      | [JavaScript](10_Days_Of_JS/Day 2.js) |
-| 3   | Easy       | Arrays                                     | [JavaScript](10_Days_Of_JS/Day 3.js) |
-| 3   | Easy       | Try, Catch, and Finally                    | [JavaScript](10_Days_Of_JS/Day 3.js) |
-| 3   | Easy       | Throw                                      | [JavaScript](10_Days_Of_JS/Day 3.js) |
-| 4   | Easy       | Create a Rectangle Object                  | [JavaScript](10_Days_Of_JS/Day 4.js) |
-| 4   | Easy       | Count Objects                              | [JavaScript](10_Days_Of_JS/Day 4.js) |
-| 4   | Easy       | Classes                                    | [JavaScript](10_Days_Of_JS/Day 4.js) |
-| 5   | Easy       | Inheritance                                | [JavaScript](10_Days_Of_JS/Day 5.js) |
-| 5   | Easy       | Template Literals                          | [JavaScript](10_Days_Of_JS/Day 5.js) |
-| 5   | Easy       | Arrow Functions                            | [JavaScript](10_Days_Of_JS/Day 5.js) |
-| 6   | Easy       | Bitwise Operators                          | [JavaScript](10_Days_Of_JS/Day 6.js) |
-| 6   | Easy       | JavaScript Dates                           | [JavaScript](10_Days_Of_JS/Day 6.js) |
-| 7   | Easy       | Regular Expressions I                      | [JavaScript](10_Days_Of_JS/Day 7.js) |
-| 7   | Easy       | Regular Expressions II                     | [JavaScript](10_Days_Of_JS/Day 7.js) |
-| 7   | Easy       | Regular Expressions III                    | [JavaScript](10_Days_Of_JS/Day 7.js) |
-| 8   | Easy       | Create a Button                            | [JavaScript](10_Days_Of_JS/Day 8.js) |
-| 8   | Easy       | Buttons Container                          | [JavaScript](10_Days_Of_JS/Day 8.js) |
-| 9   | Medium     | Binary Calculator                          | [JavaScript](10_Days_Of_JS/Day 9.js) |
+| 0   | Easy       | Data Types                                 | [JavaScript](10_Days_Of_JS/Day-0.js) |
+| 1   | Easy       | Arithmetic Operators                       | [JavaScript](10_Days_Of_JS/Day-1.js) |
+| 1   | Easy       | Functions                                  | [JavaScript](10_Days_Of_JS/Day-1.js) |
+| 1   | Easy       | Let and Const                              | [JavaScript](10_Days_Of_JS/Day-1.js) |
+| 2   | Easy       | Conditional Statements: If-Else            | [JavaScript](10_Days_Of_JS/Day-2.js) |
+| 2   | Easy       | Conditional Statements: Switch             | [JavaScript](10_Days_Of_JS/Day-2.js) |
+| 2   | Easy       | Loops                                      | [JavaScript](10_Days_Of_JS/Day-2.js) |
+| 3   | Easy       | Arrays                                     | [JavaScript](10_Days_Of_JS/Day-3.js) |
+| 3   | Easy       | Try, Catch, and Finally                    | [JavaScript](10_Days_Of_JS/Day-3.js) |
+| 3   | Easy       | Throw                                      | [JavaScript](10_Days_Of_JS/Day-3.js) |
+| 4   | Easy       | Create a Rectangle Object                  | [JavaScript](10_Days_Of_JS/Day-4.js) |
+| 4   | Easy       | Count Objects                              | [JavaScript](10_Days_Of_JS/Day-4.js) |
+| 4   | Easy       | Classes                                    | [JavaScript](10_Days_Of_JS/Day-4.js) |
+| 5   | Easy       | Inheritance                                | [JavaScript](10_Days_Of_JS/Day-5.js) |
+| 5   | Easy       | Template Literals                          | [JavaScript](10_Days_Of_JS/Day-5.js) |
+| 5   | Easy       | Arrow Functions                            | [JavaScript](10_Days_Of_JS/Day-5.js) |
+| 6   | Easy       | Bitwise Operators                          | [JavaScript](10_Days_Of_JS/Day-6.js) |
+| 6   | Easy       | JavaScript Dates                           | [JavaScript](10_Days_Of_JS/Day-6.js) |
+| 7   | Easy       | Regular Expressions I                      | [JavaScript](10_Days_Of_JS/Day-7.js) |
+| 7   | Easy       | Regular Expressions II                     | [JavaScript](10_Days_Of_JS/Day-7.js) |
+| 7   | Easy       | Regular Expressions III                    | [JavaScript](10_Days_Of_JS/Day-7.js) |
+| 8   | Easy       | Create a Button                            | [JavaScript](10_Days_Of_JS/Day-8.js) |
+| 8   | Easy       | Buttons Container                          | [JavaScript](10_Days_Of_JS/Day-8.js) |
+| 9   | Medium     | Binary Calculator                          | [JavaScript](10_Days_Of_JS/Day-9.js) |
 
 ---
 

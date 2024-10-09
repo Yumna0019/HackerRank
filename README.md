@@ -1,6 +1,6 @@
 # 30 Days of Code Challenge
 
-Here my solutions for each day of the challenge, implemented in Java.
+Here my solutions to the **30 Days of Code** challenge. Each solution is implemented using Java.
 
 ## 🗓️ Challenge Overview
 
@@ -41,7 +41,7 @@ Here my solutions for each day of the challenge, implemented in Java.
 
 # 10 Days of JavaScript Challenge
 
-This repository contains my solutions to the **10 Days of JavaScript** challenge. Each solution is implemented using JavaScript and covers various basic and advanced topics.
+Here my solutions to the **10 Days of JavaScript** challenge. Each solution is implemented using JavaScript.
 
 ## 🗓️ Challenge Overview
 

@@ -47,8 +47,8 @@ Here my solutions to the **10 Days of JavaScript** challenge. Each solution is i
 
 | Day | Difficulty | Problem                         | Solution                                                 |
 | --- | ---------- | ------------------------------- | -------------------------------------------------------- |
-| 0   | Easy       | Hello, World!                   | [JavaScript](10_Days_Of_Javascript/Day-0/Hello_World.js) |
-| 0   | Easy       | Data Types                      | [JavaScript](10_Days_Of_Javascript/Day-0/Data_Types.js)  |
+| 0   | Easy       | Hello, World!                   | [JavaScript](10_Day_Of_Javascrpit/Day-0/Hello_World.js) |
+| 0   | Easy       | Data Types                      | [JavaScript](10_Day_Of_Javascrpit/Day-0/Data_Types.js)  |
 | 1   | Easy       | Arithmetic Operators            | [JavaScript](10_Days_Of_Javascript/Day-1/)               |
 | 1   | Easy       | Functions                       | [JavaScript](10_Days_Of_Javascript/Day-1/)               |
 | 1   | Easy       | Let and Const                   | [JavaScript](10_Days_Of_Javascript/Day-1/)               |

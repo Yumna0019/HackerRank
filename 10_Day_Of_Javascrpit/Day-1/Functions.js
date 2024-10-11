@@ -10,7 +10,6 @@ function factorial(n){
         fact *= i;
     }
     return fact;
-    
 }
 
 function main() {

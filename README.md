@@ -52,7 +52,7 @@ Here my solutions to the **10 Days of JavaScript** challenge. Each solution is i
 | 1   | Easy       | Arithmetic Operators            | [JavaScript](10_Day_Of_Javascrpit/Day-1/Arithmetic_Operators.js)               |
 | 1   | Easy       | Functions                       | [JavaScript](10_Day_Of_Javascrpit/Day-1/Functions.js)               |
 | 1   | Easy       | Let and Const                   | [JavaScript](10_Day_Of_Javascrpit/Day-1/Let_and_Const.js)               |
-| 2   | Easy       | Conditional Statements: If-Else | [JavaScript](10_Days_Of_Javascript/Day-2/)               |
+| 2   | Easy       | Conditional Statements: If-Else | [JavaScript](10_Day_Of_Javascrpit/Day-2/Conditional_State.js)               |
 | 2   | Easy       | Conditional Statements: Switch  | [JavaScript](10_Days_Of_Javascript/Day-2/)               |
 | 2   | Easy       | Loops                           | [JavaScript](10_Days_Of_Javascript/Day-2/)               |
 | 3   | Easy       | Arrays                          | [JavaScript](10_Days_Of_Javascript/Day-3/)               |

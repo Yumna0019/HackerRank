@@ -1,7 +1,6 @@
 function readLine() {
     return inputString[currentLine++];
 }
-
 /*
  * Complete the vowelsAndConsonants function.
  * Print your output using 'console.log()'.
@@ -18,7 +17,6 @@ function vowelsAndConsonants(s) {
             arrNonVowels.push(char);
         }
     }
-    
     arrVowels.forEach((vowels) => console.log(vowels));
     arrNonVowels.forEach((nonVowels) => console.log(nonVowels));
 }

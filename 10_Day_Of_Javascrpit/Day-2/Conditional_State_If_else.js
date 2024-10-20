@@ -29,7 +29,6 @@ function getGrade(score) {
     return grade;
 }
 
-
 function main() {
     const score = +(readLine());
     

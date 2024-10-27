@@ -55,7 +55,7 @@ Here my solutions to the **10 Days of JavaScript** challenge. Each solution is i
 | 2   | Easy       | Conditional Statements: If-Else | [JavaScript](10_Day_Of_Javascrpit/Day-2/Conditional_State_If_else.js)               |
 | 2   | Easy       | Conditional Statements: Switch  | [JavaScript](10_Day_Of_Javascrpit/Day-2/Conditional_State_Switch.js)               |
 | 2   | Easy       | Loops                           | [JavaScript](10_Day_Of_Javascrpit/Day-2/Loops.js)               |
-| 3   | Easy       | Arrays                          | [JavaScript](10_Days_Of_Javascript/Day-3/)               |
+| 3   | Easy       | Arrays                          | [JavaScript](10_Day_Of_Javascrpit/Day-3/Arrays.js)               |
 | 3   | Easy       | Try, Catch, and Finally         | [JavaScript](10_Days_Of_Javascript/Day-3/)               |
 | 3   | Easy       | Throw                           | [JavaScript](10_Days_Of_Javascript/Day-3/)               |
 | 4   | Easy       | Create a Rectangle Object       | [JavaScript](10_Days_Of_Javascript/Day-4/)               |

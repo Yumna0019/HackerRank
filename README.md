@@ -66,7 +66,7 @@ Here my solutions to the **10 Days of JavaScript** challenge. Each solution is i
 | 5   | Easy       | Arrow Functions                 | [JavaScript](10_Days_Of_Javascript/Day-5/)               |
 | 6   | Easy       | Bitwise Operators               | [JavaScript](10_Days_Of_Javascript/Day-6/)               |
 | 6   | Easy       | JavaScript Dates                | [JavaScript](10_Days_Of_Javascript/Day-6/)               |
-| 7   | Easy       | Regular Expressions I           | [JavaScript](10_Days_Of_Javascript/Day-7/)               |
+| 7   | Easy       | Regular Expressions I           | [JavaScript](10_Day_Of_Javascrpit/Day-3/Regular_Expressions_I.js)               |
 | 7   | Easy       | Regular Expressions II          | [JavaScript](10_Days_Of_Javascript/Day-7/)               |
 | 7   | Easy       | Regular Expressions III         | [JavaScript](10_Days_Of_Javascript/Day-7/)               |
 | 8   | Easy       | Create a Button                 | [JavaScript](10_Days_Of_Javascript/Day-8/)               |

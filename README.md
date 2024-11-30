@@ -56,7 +56,7 @@ Here my solutions to the **10 Days of JavaScript** challenge. Each solution is i
 | 2   | Easy       | Conditional Statements: Switch  | [JavaScript](10_Day_Of_Javascrpit/Day-2/Conditional_State_Switch.js)               |
 | 2   | Easy       | Loops                           | [JavaScript](10_Day_Of_Javascrpit/Day-2/Loops.js)               |
 | 3   | Easy       | Arrays                          | [JavaScript](10_Day_Of_Javascrpit/Day-3/Arrays.js)               |
-| 3   | Easy       | Try, Catch, and Finally         | [JavaScript](10_Day_Of_Javascrpit/Day-3/Regular_Expressions_I.js)               |
+| 3   | Easy       | Try, Catch, and Finally         | [JavaScript](10_Day_Of_Javascrpit/Day-3/)               |
 | 3   | Easy       | Throw                           | [JavaScript](10_Days_Of_Javascript/Day-3/)               |
 | 4   | Easy       | Create a Rectangle Object       | [JavaScript](10_Days_Of_Javascript/Day-4/)               |
 | 4   | Easy       | Count Objects                   | [JavaScript](10_Days_Of_Javascript/Day-4/)               |
@@ -66,7 +66,7 @@ Here my solutions to the **10 Days of JavaScript** challenge. Each solution is i
 | 5   | Easy       | Arrow Functions                 | [JavaScript](10_Days_Of_Javascript/Day-5/)               |
 | 6   | Easy       | Bitwise Operators               | [JavaScript](10_Days_Of_Javascript/Day-6/)               |
 | 6   | Easy       | JavaScript Dates                | [JavaScript](10_Days_Of_Javascript/Day-6/)               |
-| 7   | Easy       | Regular Expressions I           | [JavaScript](10_Day_Of_Javascrpit/Day-3/Regular_Expressions_I.js)               |
+| 7   | Easy       | Regular Expressions I           | [JavaScript](10_Day_Of_Javascrpit/Day-7/Regular_Expressions_I.js)               |
 | 7   | Easy       | Regular Expressions II          | [JavaScript](10_Days_Of_Javascript/Day-7/)               |
 | 7   | Easy       | Regular Expressions III         | [JavaScript](10_Days_Of_Javascript/Day-7/)               |
 | 8   | Easy       | Create a Button                 | [JavaScript](10_Days_Of_Javascript/Day-8/)               |
